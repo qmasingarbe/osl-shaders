@@ -2,6 +2,8 @@
 This shader allow for procedural render of text without the need of a bitmap.  
 The text is attached to the mesh UVs.
 
+![example](https://raw.githubusercontent.com/qmasingarbe/osl-shaders/master/TextShader/TextShader_example.jpg)
+
 ### Original use case
 I originally wanted a procedural weight/size text on the side of containers.
 Doing it procedurally allow random text to be generated for each instance of a container in the image.
